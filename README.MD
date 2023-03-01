@@ -24,6 +24,8 @@
 | ENCFF259JCU | 17634249 | 86.60% | 3.85% | 9.55% |
 
 **Полученные диаграммы:**
+
+
 ![AltText](data/ENC_KCO.png)
 ![AltText](data/KCO_ENC.png)
 ![AltText](data/ENC_TRF.png)
